@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export class Brands extends Component {
     render() {
         return (
-            <div className="mt-4 text-center font-andalus text-lg">
+            <div className="mt-1 text-center font-andalus text-lg">
                 choose a brand
                 <div className="bg-white w-56  h-28 rounded-xl m-auto border-gray-500 border-2 pt-2">
                 <button> <span className="brand font-andalus">Nike</span> </button> 
@@ -24,3 +24,4 @@ export class Brands extends Component {
 }
 
 export default Brands
+

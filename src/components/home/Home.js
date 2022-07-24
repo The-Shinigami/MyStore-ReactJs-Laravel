@@ -6,7 +6,7 @@ export class Home extends Component {
         return (
             <div>
                 <TopNavbar></TopNavbar>
-                <HomeContent></HomeContent>
+                <HomeContent></HomeContent>              
             </div>
 
         )
